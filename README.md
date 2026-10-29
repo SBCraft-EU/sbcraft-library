@@ -67,12 +67,18 @@ A single top-level folder in the archive is allowed.
 
 ```
 python tools/make_catalog.py pack-materials <folder> <id> <version> build/<id>-<version>.zip --name-en "…" --name-sk "…"
+python tools/make_catalog.py pack-groups packs/egger_dc26.json --sources sources.json
 python tools/make_catalog.py pack-hardware <pack folder> build/<id>-<version>.zip
 python tools/make_catalog.py build sources.json katalog.json
 gh release create <tag> build/<asset> --repo SBCraft-EU/sbcraft-library --title "<name> <version>"
 ```
 
 ZIP files are deterministic (fixed timestamps, sorted entries), so the same input always gives the same SHA-256.
+
+Large libraries are split into packs of at most ~95 MB (`pack-groups`): one pack per decor group (e.g. EGGER unis,
+material reproductions, wood reproductions), a group over the limit is split into parts in decor-code order
+(`egger_dc26_wood_1` … `_3`, the name shows the code range). Each part is a normal `materials` item, so the extension
+downloads, verifies and installs it on its own and the whole download stays small enough for memory.
 
 ## Privacy
 
