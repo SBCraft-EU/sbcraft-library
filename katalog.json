@@ -1,0 +1,100 @@
+{
+ "format": "sb-craft-library-catalog",
+ "version": 1,
+ "updated": "2026-10-29",
+ "items": [
+  {
+   "id": "hranipex_2025_sk",
+   "kind": "catalog",
+   "catalog": "hranipex_2025",
+   "vendor": "Hranipex",
+   "name": {
+    "sk": "Katalóg Hranipex 2025 (SK)",
+    "en": "Hranipex catalogue 2025 (SK)",
+    "cs": "Katalog Hranipex 2025 (SK)",
+    "hu": "Hranipex katalógus 2025 (SK)",
+    "de": "Hranipex Katalog 2025 (SK)",
+    "fr": "Catalogue Hranipex 2025 (SK)",
+    "pl": "Katalog Hranipex 2025 (SK)",
+    "it": "Catalogo Hranipex 2025 (SK)",
+    "es": "Catálogo Hranipex 2025 (SK)",
+    "pt": "Catálogo Hranipex 2025 (SK)"
+   },
+   "description": {
+    "sk": "Celý katalóg produktov – „i“ pri kovaní ho otvorí na správnej strane.",
+    "en": "Complete product catalogue – the “i” next to hardware opens it on the right page.",
+    "cs": "Celý katalog produktů – „i“ u kování jej otevře na správné straně.",
+    "hu": "Teljes termékkatalógus – a vasalatnál lévő „i” a megfelelő oldalon nyitja meg.",
+    "de": "Vollständiger Produktkatalog – das „i“ beim Beschlag öffnet ihn auf der richtigen Seite.",
+    "fr": "Catalogue complet – le « i » de la quincaillerie l’ouvre à la bonne page.",
+    "pl": "Pełny katalog produktów – „i” przy okuciach otwiera go na właściwej stronie.",
+    "it": "Catalogo prodotti completo – la «i» accanto alla ferramenta lo apre alla pagina giusta.",
+    "es": "Catálogo completo – la «i» junto a los herrajes lo abre en la página correcta.",
+    "pt": "Catálogo completo – o «i» junto às ferragens abre-o na página certa."
+   },
+   "version": "2025.4",
+   "languages": [
+    "sk"
+   ],
+   "file": "2025-hranipex-katalog-produktov-2025-sk-v-4_2025.pdf",
+   "date": "2026-10-29",
+   "consent": true,
+   "consent_note": "Súhlas Hranipexu na šírenie celého katalógu potvrdil používateľ 29.10.2026 (FRONTA 313).",
+   "vendor_url": "https://www.hranipex.sk/",
+   "min_sb_craft": "1.50",
+   "size": 101083465,
+   "sha256": "d92c1758af8429dcbd20f28d6338d8ee602f2aefcdf07cfddc81cf52d7c7bf5a",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/catalog-hranipex_2025_sk-2025.4/2025-hranipex-katalog-produktov-2025-sk-v-4_2025.pdf"
+  },
+  {
+   "id": "ral_classic",
+   "kind": "materials",
+   "vendor": "SB Craft",
+   "name": {
+    "sk": "RAL Classic (orientačné farby)",
+    "en": "RAL Classic (approximate colours)",
+    "cs": "RAL Classic (orientační barvy)",
+    "hu": "RAL Classic (tájékoztató színek)",
+    "de": "RAL Classic (Richtfarben)",
+    "fr": "RAL Classic (couleurs indicatives)",
+    "pl": "RAL Classic (kolory orientacyjne)",
+    "it": "RAL Classic (colori indicativi)",
+    "es": "RAL Classic (colores orientativos)",
+    "pt": "RAL Classic (cores indicativas)"
+   },
+   "version": "1.0",
+   "languages": [],
+   "date": "2026-10-29",
+   "consent": true,
+   "min_sb_craft": "1.50",
+   "size": 424473,
+   "sha256": "2b4227fb821f5cf1d0f0f69a0c3729c64cac04c5e2b948cac4e94bfd07af47ea",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/materials-ral_classic-1.0/ral_classic-1.0.zip"
+  },
+  {
+   "id": "ncs_2050",
+   "kind": "materials",
+   "vendor": "SB Craft",
+   "name": {
+    "sk": "NCS 2050 (orientačné farby)",
+    "en": "NCS 2050 (approximate colours)",
+    "cs": "NCS 2050 (orientační barvy)",
+    "hu": "NCS 2050 (tájékoztató színek)",
+    "de": "NCS 2050 (Richtfarben)",
+    "fr": "NCS 2050 (couleurs indicatives)",
+    "pl": "NCS 2050 (kolory orientacyjne)",
+    "it": "NCS 2050 (colori indicativi)",
+    "es": "NCS 2050 (colores orientativos)",
+    "pt": "NCS 2050 (cores indicativas)"
+   },
+   "version": "1.0",
+   "languages": [],
+   "date": "2026-10-29",
+   "consent": true,
+   "min_sb_craft": "1.50",
+   "size": 4070517,
+   "sha256": "2a164d23a6caa2882d62d68eedf86c2b2980d1a2bfb2beeeba4dd68f8b2d74ab",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/materials-ncs_2050-1.0/ncs_2050-1.0.zip"
+  }
+ ]
+}
