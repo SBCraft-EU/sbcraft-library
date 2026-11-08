@@ -1130,16 +1130,16 @@
     "es": "Tiradores, pomos, colgadores y gola Hranipex RiexTouch",
     "pt": "Puxadores, botões, cabides e gola Hranipex RiexTouch"
    },
-   "version": "1.3",
+   "version": "1.4",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS 7.11.2026",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.60",
-   "size": 69585940,
-   "sha256": "ae79ad125e298298276940c5e73342191722184e8936eaa86fd0968368557961",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_riextouch_handles-1.3/hranipex_riextouch_handles-1.3.zip"
+   "size": 71566045,
+   "sha256": "bc7dc7cd542ece3dcd1ef6e32e748fb69f43a1dfcb278a9e554c4549707ee8e2",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_riextouch_handles-1.4/hranipex_riextouch_handles-1.4.zip"
   },
   {
    "id": "hranipex_drawer_systems",
@@ -1184,16 +1184,16 @@
     "es": "Patas y ruedas para muebles Hranipex",
     "pt": "Pés e rodízios para móveis Hranipex"
    },
-   "version": "1.0",
+   "version": "1.3",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.58",
-   "size": 104601002,
-   "sha256": "9ee5c2967f22e8be4b8216fd50ee662484447cee75307346309b7cd4d2025d45",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.0/hranipex_legs_castors-1.0.zip"
+   "size": 141876054,
+   "sha256": "27d1aa6770f18f166ee3badf5c0f08fe6e23997b4b5c5dc915104e31a1b35d02",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.3/hranipex_legs_castors-1.3.zip"
   },
   {
    "id": "hranipex_connectors",
@@ -1211,16 +1211,16 @@
     "es": "Herrajes de unión y tacos Hranipex",
     "pt": "Ferragens de união e buchas Hranipex"
    },
-   "version": "1.0",
+   "version": "1.1",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.58",
-   "size": 30087648,
-   "sha256": "f9787a986a05eb1c3e729afe96715a8e00aa1616045701f356ca30638db8250a",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_connectors-1.0/hranipex_connectors-1.0.zip"
+   "size": 30090367,
+   "sha256": "f5faf28ec2b2378a78832a565f7447bc40fbcc25a88ba5edda723cab1113b04a",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_connectors-1.1/hranipex_connectors-1.1.zip"
   },
   {
    "id": "hranipex_accessories",
@@ -1238,16 +1238,16 @@
     "es": "Accesorios para muebles Hranipex (rejillas de ventilación, sistemas correderos y otros)",
     "pt": "Acessórios para móveis Hranipex (grelhas de ventilação, sistemas de correr e outros)"
    },
-   "version": "1.0",
+   "version": "1.1",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.58",
-   "size": 47198140,
-   "sha256": "fbd3f7e225bdf5ad7bd053f53737670e8f61915285b27bd60e455b3734535741",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_accessories-1.0/hranipex_accessories-1.0.zip"
+   "size": 47201945,
+   "sha256": "dcf73e3a091187c37238b439510d5a13d7c7fa19ef1094f7df802224cf16eefd",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_accessories-1.1/hranipex_accessories-1.1.zip"
   },
   {
    "id": "hranipex_wardrobe_kitchen",
@@ -1265,16 +1265,16 @@
     "es": "Accesorios de vestidor y cocina Hranipex (cubos, zapateros, colgadores)",
     "pt": "Acessórios para closet e cozinha Hranipex (lixeiras, sapateiras, cabides)"
    },
-   "version": "1.0",
+   "version": "1.2",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.58",
-   "size": 235108967,
-   "sha256": "6d53b57c5dc37f29ab48d362090dfab2a3eaa3f3b0807d075142a5832deef8e8",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_wardrobe_kitchen-1.0/hranipex_wardrobe_kitchen-1.0.zip"
+   "size": 273498562,
+   "sha256": "c1492a913e779fcd6611020da741f75530123d2b007488edb0809e6c813fcabf",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_wardrobe_kitchen-1.2/hranipex_wardrobe_kitchen-1.2.zip"
   },
   {
    "id": "hranipex_lighting",
@@ -1292,16 +1292,16 @@
     "es": "Iluminación para muebles Hranipex",
     "pt": "Iluminação para móveis Hranipex"
    },
-   "version": "1.0",
+   "version": "1.1",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.58",
-   "size": 1859653,
-   "sha256": "a0241b2e79774e0d66745bee43da688883e2ca9241069b9f1e48431474a4f951",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_lighting-1.0/hranipex_lighting-1.0.zip"
+   "size": 1861179,
+   "sha256": "650fd910628982bcc2e86839f07870b64dbbff2f4af32a5fe097d7070ba6763b",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_lighting-1.1/hranipex_lighting-1.1.zip"
   }
  ]
 }
