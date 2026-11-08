@@ -1103,16 +1103,16 @@
     "es": "Bisagras Hranipex Riex NC40, NC20, NS40, NS20, NS10, NS30",
     "pt": "Dobradiças Hranipex Riex NC40, NC20, NS40, NS20, NS10, NS30"
    },
-   "version": "1.2",
+   "version": "1.3",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS 7.11.2026",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.60",
-   "size": 95869308,
-   "sha256": "bbe317792284a6bf2a988986659cb7c0d22937b9407de57f07688ee16ba6cbec",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_riex_hinges-1.2/hranipex_riex_hinges-1.2.zip"
+   "size": 102762989,
+   "sha256": "511e7d1599bcaa5d445b7b480682842cd392dbb4d005548d90f1a153d4c61c13",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_riex_hinges-1.3/hranipex_riex_hinges-1.3.zip"
   },
   {
    "id": "hranipex_riextouch_handles",
@@ -1157,16 +1157,16 @@
     "es": "Sistemas de cajones y guías Hranipex (RiexTrack, ND60, ND30, ocultas, de bolas, de rodillos)",
     "pt": "Sistemas de gavetas e corrediças Hranipex (RiexTrack, ND60, ND30, ocultas, de esferas, de roletes)"
    },
-   "version": "1.2",
+   "version": "1.3",
    "languages": [],
    "date": "2026-11-08",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS 7.11.2026",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.60",
-   "size": 249395790,
-   "sha256": "469d097940fb68d3d1f6e38afc71ca0ba066c1da497e3c21af2cc2f9386c0b64",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.2/hranipex_drawer_systems-1.2.zip"
+   "size": 263317911,
+   "sha256": "943bff6b86d9045f9eb68116f38d90b26e7bff7438a01818c1b7eb1fa656bb0d",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.3/hranipex_drawer_systems-1.3.zip"
   },
   {
    "id": "hranipex_legs_castors",
