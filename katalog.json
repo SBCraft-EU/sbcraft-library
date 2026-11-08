@@ -1086,6 +1086,87 @@
    "consent_note": "Bez súhlasu výrobcu (FRONTA 317) – iba odkaz na stránku výrobcu.",
    "vendor_url": "https://cleaf.it/en/download/",
    "min_sb_craft": "1.50"
+  },
+  {
+   "id": "hranipex_riex_hinges",
+   "kind": "hardware",
+   "vendor": "Hranipex",
+   "name": {
+    "sk": "Hranipex Riex závesy NC40, NC20, NS40, NS20, NS10, NS30",
+    "en": "Hranipex Riex hinges NC40, NC20, NS40, NS20, NS10, NS30",
+    "cs": "Hranipex Riex závěsy NC40, NC20, NS40, NS20, NS10, NS30",
+    "hu": "Hranipex Riex pántok NC40, NC20, NS40, NS20, NS10, NS30",
+    "de": "Hranipex Riex Scharniere NC40, NC20, NS40, NS20, NS10, NS30",
+    "fr": "Charnières Hranipex Riex NC40, NC20, NS40, NS20, NS10, NS30",
+    "pl": "Zawiasy Hranipex Riex NC40, NC20, NS40, NS20, NS10, NS30",
+    "it": "Cerniere Hranipex Riex NC40, NC20, NS40, NS20, NS10, NS30",
+    "es": "Bisagras Hranipex Riex NC40, NC20, NS40, NS20, NS10, NS30",
+    "pt": "Dobradiças Hranipex Riex NC40, NC20, NS40, NS20, NS10, NS30"
+   },
+   "version": "1.2",
+   "languages": [],
+   "date": "2026-11-08",
+   "consent": true,
+   "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS 7.11.2026",
+   "vendor_url": "https://www.hranipex.sk",
+   "min_sb_craft": "1.60",
+   "size": 95869308,
+   "sha256": "bbe317792284a6bf2a988986659cb7c0d22937b9407de57f07688ee16ba6cbec",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_riex_hinges-1.2/hranipex_riex_hinges-1.2.zip"
+  },
+  {
+   "id": "hranipex_riextouch_handles",
+   "kind": "hardware",
+   "vendor": "Hranipex",
+   "name": {
+    "sk": "Hranipex RiexTouch úchytky, knopky, vešiaky a gola",
+    "en": "Hranipex RiexTouch handles, knobs, hooks and gola",
+    "cs": "Hranipex RiexTouch úchytky, knoflíky, věšáky a gola",
+    "hu": "Hranipex RiexTouch fogantyúk, gombok, fogasok és gola",
+    "de": "Hranipex RiexTouch Griffe, Knöpfe, Haken und Gola",
+    "fr": "Poignées, boutons, patères et gola Hranipex RiexTouch",
+    "pl": "Uchwyty, gałki, wieszaki i gola Hranipex RiexTouch",
+    "it": "Maniglie, pomoli, appendiabiti e gola Hranipex RiexTouch",
+    "es": "Tiradores, pomos, colgadores y gola Hranipex RiexTouch",
+    "pt": "Puxadores, botões, cabides e gola Hranipex RiexTouch"
+   },
+   "version": "1.2",
+   "languages": [],
+   "date": "2026-11-08",
+   "consent": true,
+   "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS 7.11.2026",
+   "vendor_url": "https://www.hranipex.sk",
+   "min_sb_craft": "1.60",
+   "size": 69585777,
+   "sha256": "f4383521315b47a8b532d5d6bc0fa394956319da79e5c5b5a68809510705f651",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_riextouch_handles-1.2/hranipex_riextouch_handles-1.2.zip"
+  },
+  {
+   "id": "hranipex_drawer_systems",
+   "kind": "hardware",
+   "vendor": "Hranipex",
+   "name": {
+    "sk": "Hranipex výsuvy a zásuvky (RiexTrack, ND60, ND30, skryté, guličkové, kolieskové)",
+    "en": "Hranipex drawer systems and runners (RiexTrack, ND60, ND30, concealed, ball-bearing, roller)",
+    "cs": "Hranipex výsuvy a zásuvky (RiexTrack, ND60, ND30, skryté, kuličkové, kolečkové)",
+    "hu": "Hranipex fiókrendszerek és sínek (RiexTrack, ND60, ND30, rejtett, golyós, görgős)",
+    "de": "Hranipex Schubkastensysteme und Auszüge (RiexTrack, ND60, ND30, verdeckt, Kugel, Rollen)",
+    "fr": "Systèmes de tiroirs et coulisses Hranipex (RiexTrack, ND60, ND30, invisibles, à billes, à galets)",
+    "pl": "Systemy szuflad i prowadnice Hranipex (RiexTrack, ND60, ND30, ukryte, kulkowe, rolkowe)",
+    "it": "Sistemi cassetti e guide Hranipex (RiexTrack, ND60, ND30, nascoste, a sfere, a rulli)",
+    "es": "Sistemas de cajones y guías Hranipex (RiexTrack, ND60, ND30, ocultas, de bolas, de rodillos)",
+    "pt": "Sistemas de gavetas e corrediças Hranipex (RiexTrack, ND60, ND30, ocultas, de esferas, de roletes)"
+   },
+   "version": "1.2",
+   "languages": [],
+   "date": "2026-11-08",
+   "consent": true,
+   "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS 7.11.2026",
+   "vendor_url": "https://www.hranipex.sk",
+   "min_sb_craft": "1.60",
+   "size": 249395790,
+   "sha256": "469d097940fb68d3d1f6e38afc71ca0ba066c1da497e3c21af2cc2f9386c0b64",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.2/hranipex_drawer_systems-1.2.zip"
   }
  ]
 }
