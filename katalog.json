@@ -1184,16 +1184,16 @@
     "es": "Patas y ruedas para muebles Hranipex",
     "pt": "Pés e rodízios para móveis Hranipex"
    },
-   "version": "1.4",
+   "version": "1.5",
    "languages": [],
    "date": "2026-11-09",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
-   "min_sb_craft": "1.58",
-   "size": 139063403,
-   "sha256": "b288abe90ee9ca04e8504b23f4fc15c9bd0c67ebf0117dbaf1b6deb7367cfa0c",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.4/hranipex_legs_castors-1.4.zip"
+   "min_sb_craft": "1.62",
+   "size": 139100306,
+   "sha256": "081442ce88bc376d2f87511d04a368b283c3f6e1f041dc07e44b1f65c85f2be4",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.5/hranipex_legs_castors-1.5.zip"
   },
   {
    "id": "hranipex_connectors",
