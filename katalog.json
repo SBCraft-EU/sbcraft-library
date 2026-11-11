@@ -971,7 +971,17 @@
    "min_sb_craft": "1.60",
    "size": 288298287,
    "sha256": "86e2c2e90bc896ff0fa0eafd356cd34359686dc015ca3eeedd72e54fd9ebba38",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.4/hranipex_drawer_systems-1.4.zip"
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.4/hranipex_drawer_systems-1.4.zip",
+   "versions": [
+    {
+     "version": "1.5",
+     "date": "2026-11-11",
+     "min_sb_craft": "1.60",
+     "size": 288142812,
+     "sha256": "c43aebfd3f0541d5c4df411255a0ccc033672be9047e450c2659f73eda4351a0",
+     "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.5/hranipex_drawer_systems-1.5.zip"
+    }
+   ]
   },
   {
    "id": "hranipex_legs_castors",
@@ -1007,6 +1017,14 @@
      "size": 165739761,
      "sha256": "034e48d54623983349bcd85b5800b2a1cad072f1602fa8701577b11b5e7d04da",
      "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.6/hranipex_legs_castors-1.6.zip"
+    },
+    {
+     "version": "1.7",
+     "date": "2026-11-11",
+     "min_sb_craft": "1.62",
+     "size": 165739648,
+     "sha256": "704ffda10ec974b5492e83d97ae64b037f01d708b6652958ec15f8872700988f",
+     "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.7/hranipex_legs_castors-1.7.zip"
     }
    ]
   },
