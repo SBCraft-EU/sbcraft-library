@@ -1,7 +1,7 @@
 {
  "format": "sb-craft-library-catalog",
  "version": 1,
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "items": [
   {
    "id": "hranipex_2025_sk",
@@ -1005,7 +1005,7 @@
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
-   "min_sb_craft": "1.58",
+   "min_sb_craft": "1.62",
    "size": 165762595,
    "sha256": "343527e51590a7b657765603a03ac18a0081f7d51aa14cc312517ac316704e4d",
    "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.8/hranipex_legs_castors-1.8.zip",
