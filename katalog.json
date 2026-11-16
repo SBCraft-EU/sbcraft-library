@@ -962,16 +962,16 @@
     "es": "Sistemas de cajones y guías Hranipex (RiexTrack, ND60, ND30, ocultas, de bolas, de rodillos)",
     "pt": "Sistemas de gavetas e corrediças Hranipex (RiexTrack, ND60, ND30, ocultas, de esferas, de roletes)"
    },
-   "version": "1.5",
+   "version": "1.4",
    "languages": [],
-   "date": "2026-11-15",
+   "date": "2026-11-10",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS 7.11.2026",
    "vendor_url": "https://www.hranipex.sk",
    "min_sb_craft": "1.60",
-   "size": 288142812,
-   "sha256": "c43aebfd3f0541d5c4df411255a0ccc033672be9047e450c2659f73eda4351a0",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.5/hranipex_drawer_systems-1.5.zip",
+   "size": 288298287,
+   "sha256": "86e2c2e90bc896ff0fa0eafd356cd34359686dc015ca3eeedd72e54fd9ebba38",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_drawer_systems-1.4/hranipex_drawer_systems-1.4.zip",
    "versions": [
     {
      "version": "1.5",
@@ -999,16 +999,16 @@
     "es": "Patas y ruedas para muebles Hranipex",
     "pt": "Pés e rodízios para móveis Hranipex"
    },
-   "version": "1.8",
+   "version": "1.4",
    "languages": [],
-   "date": "2026-11-15",
+   "date": "2026-11-09",
    "consent": true,
    "consent_note": "súhlas Hranipex (stránka Súhlasy); D-HRANIPEX-PACKS, FRONTA 522",
    "vendor_url": "https://www.hranipex.sk",
-   "min_sb_craft": "1.62",
-   "size": 165762595,
-   "sha256": "343527e51590a7b657765603a03ac18a0081f7d51aa14cc312517ac316704e4d",
-   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.8/hranipex_legs_castors-1.8.zip",
+   "min_sb_craft": "1.58",
+   "size": 139063403,
+   "sha256": "b288abe90ee9ca04e8504b23f4fc15c9bd0c67ebf0117dbaf1b6deb7367cfa0c",
+   "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.4/hranipex_legs_castors-1.4.zip",
    "versions": [
     {
      "version": "1.6",
@@ -1025,6 +1025,14 @@
      "size": 165739648,
      "sha256": "704ffda10ec974b5492e83d97ae64b037f01d708b6652958ec15f8872700988f",
      "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.7/hranipex_legs_castors-1.7.zip"
+    },
+    {
+     "version": "1.8",
+     "date": "2026-11-16",
+     "min_sb_craft": "1.62",
+     "size": 165762595,
+     "sha256": "343527e51590a7b657765603a03ac18a0081f7d51aa14cc312517ac316704e4d",
+     "url": "https://github.com/SBCraft-EU/sbcraft-library/releases/download/hardware-hranipex_legs_castors-1.8/hranipex_legs_castors-1.8.zip"
     }
    ]
   },
